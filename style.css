@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.new{
+    padding:10px;
+    border:2px solid black;
+    margin:10px;
+    border-radius:20px;
+    width:200px;
+background:pink;
+color:white;
+display:flex;
+justify-content: center;
+align-items:center;
+text-align:center;
+margin:auto;
+}
